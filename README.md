@@ -3,7 +3,7 @@ Base styles + utils + custom grid system I carry with me to new projects.
 
 ### Add To Project
 1. Download to `./styles`: `npx degit github.com:qudo-code/template--scss styles`
-2. Add it to your entrypoint: `import "./styles/main.scss"`
+2. Reference in your entrypoint: `import "./styles/main.scss"`
 
 ## 🛠 Config
 `src/main.scss`
