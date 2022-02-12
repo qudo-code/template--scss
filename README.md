@@ -1,4 +1,4 @@
-# Qudo Styles
+# Styles
 Base styles + utils + custom grid system I carry with me to every new project.
 
 ## Config
